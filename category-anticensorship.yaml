@@ -3,6 +3,7 @@
 payload:
   - "+.ahmia.fi"
   - "+.akasha.world"
+  - "+.applecensorship.com"
   - "+.browserleaks.com"
   - "+.bypasscensorship.org"
   - "+.citizenlab.ca"
@@ -11,7 +12,10 @@ payload:
   - "+.eff.org"
   - "+.epicbrowser.com"
   - "+.ffprofile.com"
+  - "+.freebrowser.org"
   - "+.freenetproject.org"
+  - "+.freewechat.com"
+  - "+.freeweibo.com"
   - "+.fteproxy.org"
   - "+.geti2p.net"
   - "+.getlantern.org"

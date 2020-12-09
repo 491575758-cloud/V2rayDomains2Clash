@@ -1,11 +1,18 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/telegram
 
 payload:
+  - "+.contest.com"
   - "+.graph.org"
+  - "+.quiz.directory"
   - "+.t.me"
   - "+.tdesktop.com"
+  - "+.telega.one"
   - "+.telegra.ph"
   - "+.telegram.dog"
   - "+.telegram.me"
   - "+.telegram.org"
+  - "+.telegram.space"
   - "+.telesco.pe"
+  - "+.tg.dev"
+  - "+.tx.me"
+  - "+.usercontent.dev"

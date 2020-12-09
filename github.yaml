@@ -2,13 +2,18 @@
 
 payload:
   - "+.atom.io"
+  - "+.dependabot.com"
   - "+.git.io"
   - "+.github.blog"
   - "+.github.com"
   - "+.github.community"
+  - "+.github.dev"
   - "+.github.io"
   - "+.githubapp.com"
   - "+.githubassets.com"
+  - "+.githubhackathon.com"
   - "+.githubstatus.com"
   - "+.githubusercontent.com"
+  - "+.npm.community"
+  - "+.npmjs.com"
   - "github-avatars.oss-cn-hongkong.aliyuncs.com"

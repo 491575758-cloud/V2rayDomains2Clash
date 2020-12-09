@@ -1,6 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/rarbg
 
 payload:
+  - "+.proxyrarbg.org"
   - "+.rarbg.is"
   - "+.rarbg.me"
   - "+.rarbg.to"

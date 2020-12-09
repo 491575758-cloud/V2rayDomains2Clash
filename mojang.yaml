@@ -1,6 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/mojang
 
 payload:
+  - "+.callersbane.com"
   - "+.minecraft.net"
   - "+.minecraftshop.com"
   - "+.mojang.com"

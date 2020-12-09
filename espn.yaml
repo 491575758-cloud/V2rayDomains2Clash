@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2ray/domain-list-community/blob/master/data/espn
+
+payload:
+  - "+.espn.com"
+  - "+.espncdn.com"
+  - "+.watchespn.com"
+  - "espn.hb.omtrdc.net"
+  - "espndotcom.tt.omtrdc.net"

@@ -3,6 +3,7 @@
 payload:
   - "+.adnet.sohu.com"
   - "+.ads.sohu.com"
+  - "+.adv-sv-show.focus.cn"
   - "+.aty.sohu.com"
   - "+.data.vod.itc.cn"
   - "+.epro.sogou.com"
@@ -12,7 +13,9 @@ payload:
   - "+.inte.sogou.com"
   - "+.inte.sogoucdn.com"
   - "+.lu.sogoucdn.com"
+  - "+.pv.sohu.com"
   - "+.theta.sogoucdn.com"
+  - "+.track.sohu.com"
   - "+.uranus.sogou.com"
   - "+.v2.reachmax.cn"
   - "643108e7617ef.cdn.sohucs.com"

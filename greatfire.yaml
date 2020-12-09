@@ -1,4 +1,8 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/greatfire
 
 payload:
+  - "+.applecensorship.com"
+  - "+.freebrowser.org"
+  - "+.freewechat.com"
+  - "+.freeweibo.com"
   - "+.greatfire.org"

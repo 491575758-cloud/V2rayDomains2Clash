@@ -1,6 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/shopee
 
 payload:
+  - "+.shopee.cn"
   - "+.shopee.co.id"
   - "+.shopee.co.th"
   - "+.shopee.com"
@@ -11,4 +12,5 @@ payload:
   - "+.shopee.tw"
   - "+.shopee.vn"
   - "+.shopeemobile.com"
+  - "+.shopeesz.com"
   - "+.shp.ee"

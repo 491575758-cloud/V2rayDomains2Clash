@@ -1,8 +1,13 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/discord
 
 payload:
+  - "+.discord.co"
   - "+.discord.com"
   - "+.discord.gg"
+  - "+.discord.gift"
+  - "+.discord.gifts"
   - "+.discord.media"
+  - "+.discord.new"
   - "+.discordapp.com"
   - "+.discordapp.net"
+  - "+.discordstatus.com"

@@ -1,4 +1,6 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/signal
 
 payload:
+  - "+.signal.art"
   - "+.signal.org"
+  - "+.signalusers.org"

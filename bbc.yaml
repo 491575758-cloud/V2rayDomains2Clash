@@ -1,6 +1,7 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/bbc
 
 payload:
+  - "+.bbc"
   - "+.bbc.co.uk"
   - "+.bbc.com"
   - "+.bbci.co.uk"

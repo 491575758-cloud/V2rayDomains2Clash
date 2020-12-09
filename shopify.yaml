@@ -1,6 +1,9 @@
 # Generated from https://github.com/v2ray/domain-list-community/blob/master/data/shopify
 
 payload:
+  - "+.myshopify.com"
   - "+.shopify.com"
   - "+.shopify.dev"
+  - "+.shopifycdn.com"
+  - "+.shopifystatus.com"
   - "+.shopifysvc.com"

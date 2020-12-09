@@ -3,7 +3,6 @@
 payload:
   - "+.coloros.com"
   - "+.finzfin.com"
-  - "+.h2os.com"
   - "+.heytap.com"
   - "+.heytapcs.com"
   - "+.heytapdownload.com"
@@ -13,6 +12,7 @@ payload:
   - "+.oppo.cn"
   - "+.oppo.com"
   - "+.oppo.mobi"
+  - "+.oppodigital.com"
   - "+.oppoer.me"
   - "+.oppomobile.com"
   - "+.oppopay.com"
